@@ -1,8 +1,5 @@
 package ca.georgiancollege.comp1011m2022ice3;
 
-/**
- * @author Tom Tsiliopoulos
- */
 public class Vector2D
 {
     // Private Instance Members
